@@ -2,7 +2,7 @@ public class HelloWorld {
 
 	public static void main (String [] args) {
 		
-			System.out.println ("__ ___      ___      _______    _     _  _______  ______    ___      ______   __");
+			System.out.println ("___  ____ _______  ____     ____     _______   __    __  _______  _______   ____     ______  ____");
 			System.out.println ("|  | |  ||       ||   |    |   |    |       |  | | _ | ||       ||    _ |  |   |    |      | |  |");
 			System.out.println ("|  |_|  ||    ___||   |    |   |    |   _   |  | || || ||   _   ||   | ||  |   |    |  _    ||  |");
 			System.out.println ("|       ||   |___ |   |    |   |    |  | |  |  |       ||  | |  ||   |_||_ |   |    | | |   ||  |");
